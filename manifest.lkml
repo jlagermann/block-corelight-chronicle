@@ -10,7 +10,7 @@ constant: DATASET_NAME{
 }
 
 constant: CHRONICLE_URL{
-  value: "https://{your_tenant}.backstory.chronicle.security"
+  value: "https://corelight.backstory.chronicle.security"
   export: override_required
 }
 
